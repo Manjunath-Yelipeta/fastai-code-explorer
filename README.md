@@ -48,7 +48,7 @@ Before using the extension, you need to configure API keys:
 ## Usage
 
 1. Click the extension icon in your Chrome toolbar
-2. Enter a Python keyword or function name (e.g., "def", "lambda", "store_attr", "L")
+2. Enter a Python keyword or function name (e.g., "itemgetter", "partial", "store_attr", "parallel")
 3. Click "Search"
 4. View the code examples and AI explanations
 
