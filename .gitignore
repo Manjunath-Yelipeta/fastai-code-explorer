@@ -1,0 +1,20 @@
+# Node modules and dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# API keys and secrets (important for security!)
+secrets.json 

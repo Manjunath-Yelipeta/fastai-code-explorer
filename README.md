@@ -74,7 +74,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-
+ - Rohan Shravan for mentorship and guidance
 - [fastai](https://github.com/fastai) for their amazing library and coding style
 - [AnswerDotAI](https://github.com/AnswerDotAI) for their innovative work
 - Google Gemini for powering the AI explanations
