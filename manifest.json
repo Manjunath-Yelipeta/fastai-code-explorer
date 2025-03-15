@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "FastAI Code Explorer",
+  "version": "1.0",
+  "description": "Looks up Python keywords in fastai and answer.ai GitHub repositories",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://api.github.com/*"
+  ],
+  "options_page": "options.html"
+}
